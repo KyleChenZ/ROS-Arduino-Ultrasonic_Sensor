@@ -1,0 +1,6 @@
+set(robotarm_SETUP_PY_VERSION "0.0.0")
+set(robotarm_SETUP_PY_SCRIPTS "")
+set(robotarm_SETUP_PY_PACKAGES "robotarm")
+set(robotarm_SETUP_PY_PACKAGE_DIRS "src/robotarm")
+set(robotarm_SETUP_PY_MODULES "")
+set(robotarm_SETUP_PY_MODULE_DIRS "")
